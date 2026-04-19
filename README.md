@@ -1,32 +1,21 @@
-## Hey, I'm Desmond 👋
+## Hey, I'm Desmond
 
-IT Support & Cybersecurity candidate based in Windsor, Ontario.
+IT Support and Cybersecurity candidate based in Windsor, Ontario.
 
-Currently working as a CNC Machinist at CenterLine (Windsor) Limited while pivoting into tech. Programming Mazak lathes in Mazatrol by day, building home lab projects and grinding through Security+ material by night.
+I work as a CNC Machinist at CenterLine (Windsor) Limited, programming Mazak lathes in Mazatrol. Outside of that I'm studying for Security+ and CCNA, running a side business, and building out a home lab to learn by doing.
 
-### 🎯 Current Focus
-- 📜 CompTIA Security+ SY0-701 (in progress)
-- 🌐 Cisco CCNA (in progress)
-- 🖥️ Building a home lab environment for hands-on practice
-- 🏗️ Growing Exhale Clean & Co., my side business in Windsor-Essex
+This GitHub is where I track the learning publicly. Notes, labs, projects, and anything else that comes out of the process.
 
-### 🛠️ Tech I'm Learning & Working With
-- **Networking:** TCP/IP, subnetting, routing & switching (Cisco Packet Tracer)
-- **Security:** Access control, incident logging, threat fundamentals
-- **Systems:** Windows 10/11, Linux CLI basics
-- **Scripting:** Mazatrol (CNC), PowerShell & Bash
-- **Tools:** VirtualBox, Packet Tracer, TryHackMe
+### Currently Working On
+- CompTIA Security+ SY0-701
+- Cisco CCNA
+- Home lab setup for hands-on networking and security practice
+- Exhale Clean & Co. — my residential cleaning business in Windsor-Essex
 
-### 📂 What's in this GitHub
-This is my public learning journal. You'll find:
-- Home lab configurations and notes
-- Cert study notes (Security+, CCNA)
-- Small projects as I learn
-- Documentation from hands-on practice
+### Tools I'm Using
+Windows, basic Linux CLI, Cisco Packet Tracer, VirtualBox, TryHackMe. Scripting in Mazatrol daily; learning PowerShell and Bash.
 
-### 📫 Connect
-- LinkedIn: [linkedin.com/in/desmm](https://linkedin.com/in/desmm)
-- Email: mcrae1316@gmail.com
-- Windsor, ON
-
-*Last updated: April, 2026*
+### Reach Me
+LinkedIn: [linkedin.com/in/desmm](https://linkedin.com/in/desmm)  
+Email: mcrae1316@gmail.com  
+Windsor, ON
